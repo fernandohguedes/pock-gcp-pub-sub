@@ -1,0 +1,5 @@
+google:
+  cloud:
+    connection-timeout: 60000
+    read-timeout: 60000
+    security-key-file: pubsub-teste-375317-86ebe7ab8dc5.json
